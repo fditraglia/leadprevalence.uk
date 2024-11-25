@@ -16,7 +16,7 @@ Our interdisciplinary method reimagines biomonitoring as a community science act
 - 📧 [Email Us](mailto:your@email.com)
 - 🐙 [GitHub](https://github.com/fditraglia/leadprevalence.uk)
 
-![Dutch Boy white lead paint](assets/512px-LeadPaint1.jpg)
+![Dutch Boy white lead paint](assets/512px-LeadPaint1.jpeg)
 
 ---
 *Last updated: November 2024*
