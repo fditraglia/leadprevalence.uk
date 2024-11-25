@@ -1,5 +1,6 @@
 ---
-title: ECLIPS Project 
+theme: jekyll-theme-minimal
+title: ECLIPS Project
 ---
 
 # Welcome to the ECLIPS Project Landing Site 
